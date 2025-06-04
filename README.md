@@ -14,3 +14,6 @@ Make sure you're both connected to the same network or have port access configur
 1. On the sender side, open Command Prompt and run:
    ```bash
    ipconfig
+2. Find your IPv4 Address (e.g., 192.168.1.5)
+
+3. Choose a port number (e.g., 5001)
